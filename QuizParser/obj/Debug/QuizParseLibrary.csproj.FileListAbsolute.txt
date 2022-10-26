@@ -1,0 +1,8 @@
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\bin\Debug\QuizParser.dll
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\bin\Debug\QuizParser.pdb
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\bin\Debug\Ionic.Zip.dll
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\obj\Debug\QuizParseLibrary.csprojAssemblyReference.cache
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\obj\Debug\QuizParseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\obj\Debug\QuizParseLibrary.csproj.CopyComplete
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\obj\Debug\QuizParser.dll
+C:\Users\lingc\source\repos\LMSQuizGenerator\QuizParser\obj\Debug\QuizParser.pdb
